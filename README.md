@@ -17,3 +17,8 @@ Requirements
 Install the dependencies:
 
     pip install opencv-python mediapipe
+Usage
+
+Run the module directly
+
+    python faceMeshModule.py
