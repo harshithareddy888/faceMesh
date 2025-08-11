@@ -11,3 +11,9 @@ Features
 - Adjustable detection and tracking confidence thresholds.
 
 - Real-time webcam preview with FPS counter.
+
+Requirements
+
+Install the dependencies:
+
+    pip install opencv-python mediapipe
