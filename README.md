@@ -22,3 +22,13 @@ Usage
 Run the module directly
 
     python faceMeshModule.py
+
+This will:
+
+- Open your webcam
+
+- Detect faces
+
+- Draw the mesh overlay
+
+- Print the coordinates of the first detected face
