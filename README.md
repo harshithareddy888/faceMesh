@@ -34,6 +34,9 @@ This will:
 - Print the coordinates of the first detected face
 
 File Structure
-    - faceMeshModule.py – Core Face Mesh Detector class
-    - faceMeshBasics.py – Basic functionality for us to get running and started
-    -faceMeshTesting.py – Testing script for detector.
+
+- faceMeshModule.py – Core Face Mesh Detector class
+    
+- faceMeshBasics.py – Basic functionality for us to get running and started
+  
+-faceMeshTesting.py – Testing script for detector.
